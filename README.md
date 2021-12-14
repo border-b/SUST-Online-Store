@@ -1,7 +1,7 @@
 # SUST Online Store
 An online store using MySQL, Php and Bootstrap.
 
-Video Demo: (To be added)
+Video Presentation: [https://drive.google.com/file/d/15txd2_mQFIL0PeoLq_LcXSgzLs1ZJLQg/view?usp=sharing](Drive Link)
 
 ## Prerequisites
 1. Install XAMPP web server
