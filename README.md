@@ -35,3 +35,26 @@ Video Presentation: [Drive Link](https://drive.google.com/file/d/15txd2_mQFIL0Pe
 1. User can view product description, image and other details.
 2. Sort products by categories (example: Men/Women or HP/Samsung).
 3. Pay online for the products.
+
+
+There are two modules. 
+1. User Module
+2. Admin Module
+
+The user enters the website and registers for a new account. The user can then login with proper credentials.
+![Login Page](https://user-images.githubusercontent.com/16661968/145960258-92cb22e6-93a5-4c69-82f8-4e249bce7df3.png)
+
+The homepage features new deals and exciting new products.
+![homepage](https://user-images.githubusercontent.com/16661968/145960689-88efe198-3d1f-4a74-959c-cb3d7a4685d1.png)
+
+The hompage also contains top-selling products of current month.
+![top-selling](https://user-images.githubusercontent.com/16661968/145960806-ed328ee6-1e63-4f66-9f90-85854e6b539d.png)
+
+Clicking on any product will take the user to that product's description page, where the user can view ratings and reviews from other users of that product.
+![product_desc](https://user-images.githubusercontent.com/16661968/145961056-a1303ecc-35b7-4078-9979-aed74d31864f.png)
+
+After adding the product to cart, the user can complete the payment procedure from this website.
+![cart](https://user-images.githubusercontent.com/16661968/145961358-86da31eb-6b4b-4e77-ad3b-8749c90262de.png)
+
+The admin can add/remove any user. Admin can also add/remove any product.
+![admin](https://user-images.githubusercontent.com/16661968/145961491-550a1761-c4e2-48c7-9c0f-ace04d38519d.png)
